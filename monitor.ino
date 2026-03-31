@@ -8,9 +8,9 @@
 #define CHANNEL 0
 VideoSetting config(768, 768, CAM_FPS, VIDEO_JPEG, 1);
 
-char wifi_ssid[] = "Wowo";    // Your network SSID
-char wifi_pass[] = "my89371546";        // Your network password
-String Gemini_key = "AIzaSyBzpwqZ3fKDAVSJAkgGkaiUFgH1Ais0WuA";                // Paste your Gemini API key here
+char wifi_ssid[] = "";    // Your network SSID
+char wifi_pass[] = "";        // Your network password
+String Gemini_key = "";                // Paste your Gemini API key here
 String prompt_msg = "Please describe the image, and if there is text, please summarize the content";
 
 uint32_t img_addr = 0;
