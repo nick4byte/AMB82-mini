@@ -1,8 +1,8 @@
 String openAI_key = ""; // paste your generated openAI API key here
-String Gemini_key = "AIzaSyD6v0ICrri0RRMGitqlqhgkdqZU-yUdyf8"; // paste your generated Gemini API key here
+String Gemini_key = ""; // paste your generated Gemini API key here
 String Llama_key = ""; // paste your generated Llama API key here
-char wifi_ssid[] = "Galaxy A52s 5G"; // your network SSID (name)
-char wifi_pass[] = "dhxq7992"; // your network password
+char wifi_ssid[] = ""; // your network SSID (name)
+char wifi_pass[] = ""; // your network password
 
 #include <WiFi.h>
 #include <WiFiUdp.h>
