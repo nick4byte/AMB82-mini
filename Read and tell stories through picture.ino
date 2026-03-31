@@ -1,8 +1,8 @@
 String openAI_key = "";
-String Gemini_key = "AIzaSyCrXM3c64lYIYO7C9Yu49vB33Uj9gqkFSk";
+String Gemini_key = "";
 String Llama_key = "";
-char wifi_ssid[] = "Galaxy A52s 5G";
-char wifi_pass[] = "dhxq7992";
+char wifi_ssid[] = "";
+char wifi_pass[] = "";
 
 #include <WiFi.h>
 #include <WiFiUdp.h>
