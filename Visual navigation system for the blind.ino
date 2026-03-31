@@ -10,8 +10,8 @@
 #define PLAY_COOLDOWN 15000 // 播放後冷卻15秒
 
 // WiFi 設定
-char ssid[] = "Galaxy A52s 5G"; // 請替換為您的WiFi名稱
-char pass[] = "dhxq7992";     // 請替換為您的WiFi密碼
+char ssid[] = ""; // 請替換為您的WiFi名稱
+char pass[] = "";     // 請替換為您的WiFi密碼
 
 // 初始化類物件
 VideoSetting config(CHANNEL);
