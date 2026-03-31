@@ -1,6 +1,6 @@
-String Gemini_key = "AIzaSyCg15A8J9nVhZwF69XfwXccmGcFE8h52Dg"; // Your Gemini API key
-char wifi_ssid[] = "Galaxy A52s 5G";   // Your network SSID
-char wifi_pass[] = "dhxq7992";         // Your network password
+String Gemini_key = ""; // Your Gemini API key
+char wifi_ssid[] = "";   // Your network SSID
+char wifi_pass[] = "";         // Your network password
 
 #include <WiFi.h>
 #include <WiFiUdp.h>
