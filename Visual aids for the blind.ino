@@ -8,9 +8,9 @@
 #include <time.h>
 
 // WiFi 設定
-char ssid[] = "Galaxy A52s 5G"; // 您的 WiFi SSID
-char pass[] = "dhxq7992";       // 您的 WiFi 密碼
-String Gemini_key = "AIzaSyAftGIhpKV2EfulUYAfAd2WlIWTWgcaPBI"; // 請確認有效的 Gemini API 金鑰
+char ssid[] = ""; // 您的 WiFi SSID
+char pass[] = "";       // 您的 WiFi 密碼
+String Gemini_key = ""; // 請確認有效的 Gemini API 金鑰
 
 // 檔案系統與 TTS 設定
 AmebaFatFS fs;
